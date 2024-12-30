@@ -14,4 +14,4 @@ Looking ahead, the next repository will focus on Buffers in Node.js, where you w
 
 2. **Create a New Folder and List All Files**  
    - Description: Create a new folder, write dynamic content into multiple files, and then list all the files inside the folder in a sorted order..
-   - [Project1](./problem-2/README.md)
+   - [Project2](./problem-2/README.md)
