@@ -17,5 +17,8 @@ Looking ahead, the next repository will focus on Buffers in Node.js, where you w
 3. **Rename a file with a new name using FS module**  
    - Description: Demonstrates how to rename a file using Node.js fs.rename() method.
    - [Project3](./problem-3/README.md)
+4. **Delete a file if it exists**  
+   - Description: In this project, Delete an existing file using the fs module in Node.js.
+   - [Project4](./problem-4/README.md)
 
 
