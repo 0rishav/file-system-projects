@@ -12,6 +12,10 @@ Looking ahead, the next repository will focus on Buffers in Node.js, where you w
    - Description: Write a string to a file and read it back.
    - [Project1](./problem-1/README.md)
 2. **Create a New Folder and List All Files**  
-   - Description: Create a new folder, write dynamic content into multiple files, and then list all the files inside the folder in a sorted order..
+   - Description: Create a new folder, write dynamic content into multiple files, and then list all the files inside the folder in a sorted order.
    - [Project2](./problem-2/README.md)
+3. **Rename a file with a new name using FS module**  
+   - Description: Demonstrates how to rename a file using Node.js fs.rename() method.
+   - [Project3](./problem-3/README.md)
+
 
