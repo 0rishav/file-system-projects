@@ -1,4 +1,4 @@
-# Problem 5: Search for a specific word inside a file and count its occurrences.
+# Problem 6: Search for a specific word inside a file and count its occurrences.
 
 ## Description:
 In this task, the objective is to search for a specific word in a file and count the number of times it occurs:
