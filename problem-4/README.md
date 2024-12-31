@@ -40,6 +40,6 @@ Error handling will be implemented to ensure that issues like the file not exist
 ## Error Handling:
 - If the file does not exist, the error message `File doesn't exist!` will be shown.
 - If there are permission issues or other errors during file deletion, they will be caught and displayed to the user.
-
+ 
 ---
 
