@@ -1,4 +1,4 @@
-# Problem 3: Delete a file if it exists
+# Problem 4: Delete a file if it exists
 
 ## Description:
 In this project, Delete an existing file using the fs module in Node.js:
