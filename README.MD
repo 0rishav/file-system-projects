@@ -26,6 +26,9 @@ Looking ahead, the next repository will focus on Buffers in Node.js, where you w
 6. **Search for a specific word inside a file and count its occurrences**  
    - Description: The objective is to search for a specific word in a file and count the number of times it occurs.
    - [Project6](./problem-6/README.md)
+7. **Copy the contents of one file into another**  
+   - Description: The objective is to copy the contents of one file into another. The source file's content will be read and then written into a destination file.
+   - [Project7](./problem-7/README.md)
 
 
 
