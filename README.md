@@ -20,5 +20,9 @@ Looking ahead, the next repository will focus on Buffers in Node.js, where you w
 4. **Delete a file if it exists**  
    - Description: In this project, Delete an existing file using the fs module in Node.js.
    - [Project4](./problem-4/README.md)
+5. **Verify whether a path is a file or a directory**  
+   - Description: In this task, the goal is to verify whether the given path corresponds to a file or a directory. Based on the verification.
+   - [Project5](./problem-5/README.md)
+
 
 
